@@ -1,5 +1,26 @@
 # 4D Minecraft clone
 This is a 4D clone of Minecraft written entirely in x86 assembly. Note that this is only a hobby project and it couldn't be finished unfortunately :(<br>
+Some notable implementations are:
+<ul>
+  <li>
+    Assembly:<br>
+    <ul>
+      <li>Multi-threading for separating physics, graphics and chunk loading processes</li>
+      <li>OpenGL loader and handler</li>
+      <li>Audio mixer for resampling and playing multiple sounds at the same time</li>
+      <li>Math library for rendering and calculating the 4D world</li>
+      <li>User interface with highly configurable elements, written in an object-oriented manner</li>
+      <li>Collision detection and resolution in 4D</li>
+    </ul>
+  </li>
+  <li>
+    OpenGL:<br>
+    <ul>
+      <li>Rendering the hyperplane-world intersections</li>
+      <li>Deferred rendering for reusing the intersection geometry and also post-processing</li>
+    </ul>
+  </li>
+</ul>
 <br>
 If you want to try it out yourself, you can do so by executing <br>
 ```test.exe```<br>
