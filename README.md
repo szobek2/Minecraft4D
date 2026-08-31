@@ -43,7 +43,7 @@ The program needs
 </ul>
 to run.<br>
 <br>
-NOTE: The project is not very stable on Intel GPUs at the time of writing. <br>
+NOTE: Due to the use of geometry shaders, the project might be unstable on some Intel GPUs <br>
 <br>
 <br>
 ## Gallery
