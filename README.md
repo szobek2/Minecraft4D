@@ -21,9 +21,11 @@ Some notable implementations are:
     </ul>
   </li>
 </ul>
+
 <br>
+
 If you want to try it out yourself, you can do so by executing <br>
-~~~test.exe~~~<br>
+```test.exe```<br>
 in the game_files folder.<br>
 <br>
 Alternatively, go to the ```src``` folder and type:<br>
