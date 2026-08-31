@@ -1,5 +1,5 @@
-# Morbius-Motorsport-2026
-MM26 is a 4D clone of Minecraft written entirely in x86 assembly with a purpose that is yet to be discovered.<br>
+# 4D Minecraft clone
+This is a 4D clone of Minecraft written entirely in x86 assembly. Note that this is only a hobby project and it couldn't be finished unfortunately :(<br>
 <br>
 If you want to try it out yourself, you can do so by executing <br>
 ```test.exe```<br>
@@ -20,8 +20,9 @@ The program needs
 </ul>
 to run.<br>
 <br>
-NOTE: The project is not very stable on Intel GPUs atm. <br>
+NOTE: The project is not very stable on Intel GPUs at the time of writing. <br>
 <br>
-Currently, the project is far from complete even though it is already eyewateringly beautiful:<br>
+<br>
+## Gallery
 
 ![gaymplay2](https://github.com/user-attachments/assets/4312d276-3c41-4a6b-9104-c0a6f9ceacd6)
